@@ -29,7 +29,7 @@
 | [`/sql`](./sql)            | SQL-скрипты для обработки и анализа данных      |
 | [`/powerbi`](./powerbi)    | Файл Power BI с дашбордом (.pbix)               |
 | [`/bpmn`](./bpmn)          | BPMN-модель пользовательского сценария          |
-| [`bpmn/timehero_pro_flow.png`](./bpmn/timehero_pro_flow.png) | Профессиональная схема пути пользователя (BPMN) |
+
 
 ---
 
